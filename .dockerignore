@@ -1,11 +1,7 @@
 .git
 .gitignore
 .DS_Store
+**/.DS_Store
 node_modules
-npm-debug.log
-.env
+test.tar
 *.log
-*.tar
-*.zip
-*.mp4
-n8n_data
